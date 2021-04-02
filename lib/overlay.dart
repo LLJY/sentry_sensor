@@ -9,12 +9,12 @@ class Overlay extends StatelessWidget {
         child: Column(
           children: [
             Icon(
-              Icons.warning,
+              Icons.camera,
               color: Colors.red,
               size: 300.0,
             ),
             Text(
-              "Sentry Mode Activated! You are being Recorded!!",
+              "Smile! You are being recorded!",
               style: TextStyle(
                 color: Colors.red,
                 fontWeight: FontWeight.w800,

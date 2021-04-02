@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "306581086202",
+    "project_id": "cycling-anti-steal-lmao",
+    "storage_bucket": "cycling-anti-steal-lmao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306581086202:android:b593b2adae3a9d4392ce43",
+        "android_client_info": {
+          "package_name": "com.example.sentry_sensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306581086202-o27jko7k6jqttf1nn3toib1td0qn2esf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeGHzslDWsjW9EuNLKo7QmqVaIN6g_4z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306581086202-o27jko7k6jqttf1nn3toib1td0qn2esf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306581086202:android:063f731e3537b48c92ce43",
+        "android_client_info": {
+          "package_name": "com.lucas.cycling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306581086202-o27jko7k6jqttf1nn3toib1td0qn2esf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeGHzslDWsjW9EuNLKo7QmqVaIN6g_4z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306581086202-o27jko7k6jqttf1nn3toib1td0qn2esf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

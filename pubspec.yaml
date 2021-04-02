@@ -18,9 +18,17 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
+  geolocator: ^7.0.1
+  flutter_geofence: ^0.4.1
+  uuid: ^3.0.3
+  flutter_blue: ^0.8.0
+  firebase_core: ^1.0.2
+  cloud_firestore: ^1.0.3
+  firebase_storage: ^8.0.1
+  camera: ^0.8.1
   sensors: ^2.0.0
   flutter:
     sdk: flutter
